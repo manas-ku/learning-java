@@ -10,5 +10,6 @@ public class twopointnine {
         double gas = sc.nextDouble();
         double milage = miles/gas;
         System.out.println("The mileage is "+milage);
+        sc.close();
     }
 }

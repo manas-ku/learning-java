@@ -7,5 +7,6 @@ public class twopointeight {
         int cookies = sc.nextInt();
         int calories = cookies*10;
         System.out.println("You consumed "+calories+" calories");
+        sc.close();
     }
 }
