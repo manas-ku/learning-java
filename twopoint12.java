@@ -7,5 +7,6 @@ public class twopoint12 {
         System.out.println(cityName.toUpperCase());
         System.out.println(cityName.toLowerCase());
         System.out.println(cityName.charAt(0));
+        sc.close();
     }
 }
